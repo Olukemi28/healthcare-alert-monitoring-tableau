@@ -2,9 +2,9 @@
 
 ## 📊 Project Overview
 
-This project presents an interactive **Healthcare Alert Monitoring Dashboard** developed in Tableau to analyse patient monitoring alerts, clinician response performance, device-related factors, and operational trends within a telehealth environment.
+This project presents an interactive **Healthcare Alert Monitoring Dashboard** developed in Tableau to analyse patient monitoring alerts, clinician response performance, device related factors, and operational trends within a telehealth environment.
 
-The dashboard transforms healthcare monitoring data into actionable insights to support timely clinical intervention, improve alert management, and enhance operational decision-making.
+The dashboard transforms healthcare monitoring data into actionable insights to support timely clinical intervention, improve alert management, and enhance operational decision making.
 
 ## 🎯 Project Objectives
 
@@ -14,15 +14,15 @@ The analysis was designed to:
 - Identify the vital sign types generating the highest volume of system alerts.
 - Examine how critical alerts are distributed across different **patient age groups and primary health conditions**.
 - Evaluate **clinician workload and compliance with the required 2-hour clinical response time**.
-- Identify alerts that breached the mandatory response-time threshold.
+- Identify alerts that breached the mandatory response time threshold.
 - Compare alert patterns across different geographical locations.
 - Investigate whether **device battery levels and connectivity types** are associated with warning alerts.
 
 ## 🛠️ Tools & Technologies
 
-- **Tableau** – Data analysis, calculated fields, KPI development, interactive visualisation, and dashboard creation.
-- **Data Visualisation** – Communicating healthcare performance and operational trends through charts and KPIs.
-- **Healthcare Data Analytics** – Analysing clinical alerts, response performance, patient characteristics, and device-related factors.
+- **Tableau:** Data analysis, calculated fields, KPI development, interactive visualisation, and dashboard creation.
+- **Data Visualisation:** Communicating healthcare performance and operational trends through charts and KPIs.
+- **Healthcare Data Analytics:** Analysing clinical alerts, response performance, patient characteristics, and device related factors.
 
 ## 📈 Key Performance Indicators
 
@@ -66,12 +66,12 @@ Comparison of critical alert volumes across patient locations to identify geogra
 
 ## 💡 Recommendations
 
-- Prioritise critical alerts and high-risk patient groups to support timely clinical intervention.
+- Prioritise critical alerts and high risk patient groups to support timely clinical intervention.
 - Closely monitor compliance with the 2-hour response requirement and investigate recurring response delays.
 - Review clinician workloads to identify potential workload imbalances that may affect response performance.
-- Monitor device battery levels and connectivity issues to reduce avoidable technology-related alerts.
+- Monitor device battery levels and connectivity issues to reduce avoidable technology related alerts.
 - Use regional alert patterns to support resource allocation and targeted operational interventions.
-- Continue monitoring key performance indicators through interactive dashboards to support data-driven healthcare decision-making.
+- Continue monitoring key performance indicators through interactive dashboards to support data driven healthcare decision making.
 
 ## 📁 Project File
 
@@ -85,20 +85,20 @@ The complete Tableau Packaged Workbook (`.twbx`) is included in this repository:
 
 - **Tableau Dashboard Development:** Designed an interactive healthcare monitoring dashboard to communicate key clinical and operational performance indicators clearly.
 
-- **KPI Development:** Developed and analysed KPIs including total alerts, critical and warning alerts, average response time, response-time breaches, and clinical compliance rate.
+- **KPI Development:** Developed and analysed KPIs including total alerts, critical and warning alerts, average response time, response time breaches, and clinical compliance rate.
 
 - **Calculated Fields & Performance Metrics:** Created Tableau calculated fields to measure clinician response performance, alert volumes, and compliance with the required 2-hour clinical response threshold.
 
-- **Data Visualisation & Storytelling:** Selected appropriate visualisations to communicate trends across patient demographics, vital signs, geographical locations, clinicians, and device-related factors.
+- **Data Visualisation & Storytelling:** Selected appropriate visualisations to communicate trends across patient demographics, vital signs, geographical locations, clinicians, and device related factors.
 
-- **Clinical & Operational Insight:** Translated analytical findings into practical recommendations focused on alert prioritisation, clinician workload, response-time compliance, patient risk, and operational efficiency.
+- **Clinical & Operational Insight:** Translated analytical findings into practical recommendations focused on alert prioritisation, clinician workload, response time compliance, patient risk, and operational efficiency.
 
-- **Dashboard Design:** Applied clear visual hierarchy, KPI presentation, filtering, and interactive analysis to make healthcare performance information accessible to decision-makers.
+- **Dashboard Design:** Applied clear visual hierarchy, KPI presentation, filtering, and interactive analysis to make healthcare performance information accessible to decision makers.
 
 - **Data-Driven Decision Making:** Converted complex healthcare monitoring data into actionable insights and recommendations to support informed clinical and operational decisions.
 
 ## 📌 Project Context
 
-This project demonstrates the practical application of healthcare data analytics and Tableau to a realistic telehealth monitoring scenario. The analysis focuses on translating complex clinical and operational data into actionable insights, with particular emphasis on patient risk, alert prioritisation, clinician performance, response-time compliance, and operational efficiency.
+This project demonstrates the practical application of healthcare data analytics and Tableau to a realistic telehealth monitoring scenario. The analysis focuses on translating complex clinical and operational data into actionable insights, with particular emphasis on patient risk, alert prioritisation, clinician performance, response time compliance, and operational efficiency.
 
-The project showcases my ability to develop meaningful KPIs, investigate healthcare performance trends, design interactive dashboards, and communicate data-driven recommendations to support informed decision-making.
+The project showcases my ability to develop meaningful KPIs, investigate healthcare performance trends, design interactive dashboards, and communicate data driven recommendations to support informed decision making.
